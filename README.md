@@ -5,9 +5,11 @@ As my notes about Blockchain and different Blockchain implementations (e.g. Lite
 ## Contents
 
 * [Blockchain](./blockchain.md)
-* [Litecoin Blockchain](./litecoin.md)
-* [Ethereum Blockchain](./ethereum.md)
-* [Bitcoin Blockchain](./bitcoin.md)
+  * [Litecoin Blockchain](./litecoin.md)
+  * [Ethereum Blockchain](./ethereum.md)
+  * [Bitcoin Blockchain](./bitcoin.md)
+* [SegWit &mdash; Segregated Witness](./segwit.md)
+* [Lightning Network](./lightning-network.md)
 * [IOTA](./iota.md)
 * [Blockchain Magazines](./magazines.md)
 * [Alternative Blockchain Application Platforms (to Ethereum)](./alternative-blockchain-platforms.md)

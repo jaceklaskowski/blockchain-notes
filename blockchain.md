@@ -1,17 +1,20 @@
 # Blockchain
 
-1. A **blockchain** is...
-    * a peer-to-peer, distributed database, with no central authority (thus no single point of failure)
-    * a protocol and ledger for building an immutable historical record of transactions
-    * a data structure which serves as the distributed back-end database
-    * a fully-distributed, peer-to-peer software network which makes use of cryptography to securely host applications, store data, and easily transfer digital instruments of value that represent real-world money.
-    * a network database that can reconcile the order of transactions (even when a few nodes on the network receive transactions in various order due to network latency)
-    * a system with **asymmetric cryptography** to create a set of credentials for your account, to ensure that only you can transfer your tokens
-    * a system with **cryptographic hashing** = a small, unique "fingerprint" for any data, allowing quick comparison of large datasets and a secure way to verify that data has not been altered
-        * in both Bitcoin and Ethereum, the Merkle tree data structure is used to record the canonical order of transactions
-        * **Merkle tree** = hashes of hashes = tree of hashes
-    * creating applications enabling users to make transactions
-    * gives you the chance to create decentralized networks
+A **blockchain** is a peer-to-peer distributed software network that acts like a large world-wide database with no central authority (thus no single point of failure).
+
+Managing transactions and issuing money are carried out collectively by the network
+
+  * a protocol and ledger for building an immutable historical record of transactions
+  * a data structure which serves as the distributed back-end database
+  * Makes use of cryptography to securely host applications, store data, and easily transfer digital instruments of value that represent real-world money.
+  * a network database that can reconcile the order of transactions (even when a few nodes on the network receive transactions in various order due to network latency)
+  * a system with **asymmetric cryptography** to create a set of credentials for your account, to ensure that only you can transfer your tokens
+  * a system with **cryptographic hashing** = a small, unique "fingerprint" for any data, allowing quick comparison of large datasets and a secure way to verify that data has not been altered
+      * in both Bitcoin and Ethereum, the Merkle tree data structure is used to record the canonical order of transactions
+      * **Merkle tree** = hashes of hashes = tree of hashes
+  * creating applications enabling users to make transactions
+  * gives you the chance to create decentralized networks
+
 1. Implementations of Blockchain: Bitcoin, Ethereum, Hyperledger Fabric, Corda, Ripple, Openchain...
 1. digital currencies (custom blockchains) such as **bitcoin**, **ethereum** or **litecoin**
 1. Participants: users, miners, and investors
