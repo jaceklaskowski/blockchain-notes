@@ -1,6 +1,7 @@
 # Litecoin Blockchain
 
 1. https://litecoin.com/
+1. [litecoin on Reddit](https://www.reddit.com/r/litecoin/)
 1. Currency symbols: **LTC** or **XLT**
 1. [Direct fork of Bitcoin](https://github.com/litecoin-project/litecoin) and thus similar to Bitcoin
   * full compatibility with the Bitcoin API
@@ -19,6 +20,8 @@
   * Instead of beginning with a "3", Litecoin’s P2SH addresses will start with the letter "M".
   * **3-** and **M-** addresses are freely convertible
   * L-addresses are non-P2SH (non-SegWit) addresses and they remain unchanged (Legacy Litecoin accounts)
+  * L addresses will always contain non-segwit coins while M addresses will always contain segwit coins.
+  * Only M addresses use segwit
   * might take an extended period of time until all vendors, services, merchants, etc. will adjust to this change
   * Some services continue to accept sending transactions to 3-addresses only, while others give you M-addresses and sends only to M-addresses
   * [P2SH Converter](https://litecoin-project.github.io/p2sh-convert/)
@@ -28,6 +31,6 @@
     * mBTC is lites - Lites (1 / 1000)
     * uBTC is photons - Photons (1 / 1000000)
 
-## Further Reading
+## Further Reading and Watching
 
 * [Why would someone invest in Litecoin?](https://www.quora.com/Why-would-someone-invest-in-Litecoin)

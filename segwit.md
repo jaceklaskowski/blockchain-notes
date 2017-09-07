@@ -9,3 +9,7 @@
   * SegWit cuts the checks in half and sends everything but the signature to everyone that’s accepting the old, smaller box. We send the larger boxes to everyone that’s accepting the new, larger box.
 * http://www.investopedia.com/terms/s/segwit-segregated-witness.asp
   * the digital signature needs to be segregated from the transactions data
+
+## Further Reading and Watching
+
+* [Segregated Witness Explained [Segwit] (Litecoin/Bitcoin)](https://youtu.be/DzBAG2Jp4bg)
