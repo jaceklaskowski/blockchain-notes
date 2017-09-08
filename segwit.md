@@ -1,4 +1,4 @@
-# SegWit &mdash; Segregated Witness
+# Segregated Witness (SegWit)
 
 [Segregated Witness (SegWit)](https://segwit.org/) increases the capacity of the blockchain, thereby allowing faster processing of payments, called lightning fast payments
 

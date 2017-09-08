@@ -5,6 +5,7 @@
 1. Currency symbols: **LTC** or **XLT**
 1. [Direct fork of Bitcoin](https://github.com/litecoin-project/litecoin) and thus similar to Bitcoin
   * full compatibility with the Bitcoin API
+1. `Litecoind` &mdash; litecoin daemon
 1. Experimental digital currency that enables instant payments
 1. [Litecoin Core](https://github.com/litecoin-project/litecoin) is the name of an open source project that enables the use of Litecoin currency
   * [Tags](https://github.com/litecoin-project/litecoin/tags) are created regularly to indicate new official, stable release versions of Litecoin Core.

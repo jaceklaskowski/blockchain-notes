@@ -1,6 +1,10 @@
 # Blockchain
 
-A **blockchain** is a peer-to-peer distributed software network that acts like a large world-wide database with no central authority (thus no single point of failure).
+A **blockchain** is a specification of a peer-to-peer distributed software to create decentralized computer networks that act like large world-wide databases with no central authority (thus no single point of failure).
+
+Implementations of Blockchain include [Bitcoin](./bitcoin.md), [Ethereum](./ethereum.md) or [Litecoin](./litecoin.md) with their own **digital currencies**, i.e. BTC, ETH and LTC, respectively.
+
+Earning digital currencies requires that (in technical terms) you have either mine or buy them.
 
 Managing transactions and issuing money are carried out collectively by the network
 
@@ -13,10 +17,7 @@ Managing transactions and issuing money are carried out collectively by the netw
       * in both Bitcoin and Ethereum, the Merkle tree data structure is used to record the canonical order of transactions
       * **Merkle tree** = hashes of hashes = tree of hashes
   * creating applications enabling users to make transactions
-  * gives you the chance to create decentralized networks
 
-1. Implementations of Blockchain: Bitcoin, Ethereum, Hyperledger Fabric, Corda, Ripple, Openchain...
-1. digital currencies (custom blockchains) such as **bitcoin**, **ethereum** or **litecoin**
 1. Participants: users, miners, and investors
     * miners = verify transactions on the network
 1. [Hard Fork](http://www.investopedia.com/terms/h/hard-fork.asp) (of a protocol)

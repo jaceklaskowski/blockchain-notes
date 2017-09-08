@@ -1,12 +1,14 @@
 ## Ethereum Blockchain
 
 * Ethereum's [White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
-* Ethereum is a blockchain where Dapps, tokens or coins can be built upon.
-    * ETH blockchain
+* Ethereum is a blockchain where Dapps, tokens or coins can be built upon
 * Dapps (Decentralized Applications)
 * **ether** - the token that powers the ethereum blockchain
 * alternative asset protocol (to Bitcoin)
 * On Ethereum, you develop a so-called Dapp (decentralized app), which consists of two parts: a frontend (written in HTML as web app or any other client using a supported programming language), and a backend (think of it as the ‘database’ for your frontend). A frontend can be a full blockchain peer communicating directly with the backend. The huge benefit here is that every client is a full member of the trusted blockchain network. This is the ideal blockchain world.
+
+[Parity](https://github.com/paritytech/parity) is a fast, light, and robust Ethereum client
+
 1. [Solidity](https://solidity.readthedocs.io/en/develop/) - a specific blockchain language to define smart contracts. Solidity Browser is a nice, simple web IDE, which makes it much easier to get started and realize new smart contracts.
     * much of Solidity is intuitive for anyone familiar with JavaScript, Java, or C languages.
 1. **Ether** is needed to "pay" for blockchain transactions
@@ -42,3 +44,13 @@
 1. [Dan's Intro to How Ethereum Works](https://youtu.be/-SMliFtoPn8)
    * Merkle tree used in git
    * Blockchain is an ever-growing Merkle tree
+
+## Platform Updates / Releases
+
+Ethereum is more and more difficult to mine due to planned updates to continue growth and improvement of Ethereum Platform.
+
+1. Frontier
+1. Homestead
+1. Metropolis
+    * includes a hardfork with proof of stake consensus (leaving proof of work consensus)
+1. Serenity
