@@ -1,6 +1,10 @@
 # Blockchain
 
-A **blockchain** is a specification of a peer-to-peer distributed software to create decentralized computer networks that act like large world-wide databases with no central authority (thus no single point of failure).
+From [Wikipedia](https://en.wikipedia.org/wiki/Blockchain):
+
+> A **blockchain** is a continuously growing list of records, called **blocks**, which are linked and secured using cryptography. Each block contains typically a hash pointer as a link to a previous block, a timestamp and transaction data.
+
+Blockchain can serve as a large world-wide database with no central authority (and therefore no single point of failure).
 
 Implementations of Blockchain include [Bitcoin](./bitcoin.md), [Ethereum](./ethereum.md) or [Litecoin](./litecoin.md) with their own **digital currencies**, i.e. BTC, ETH and LTC, respectively.
 
