@@ -1,6 +1,8 @@
 # Segregated Witness (SegWit)
 
-[Segregated Witness (SegWit)](https://segwit.org/) increases the capacity of the blockchain, thereby allowing faster processing of payments, called lightning fast payments
+[Segregated Witness (SegWit)](https://segwit.org/) is a technology designed to increase the capacity of the blockchain (i.e. the amount of transactions that can be made over the Bitcoin network), thereby allowing faster processing of payments, called lightning fast payments
+
+SegWit is also supposed to increase the security of the Bitcoin network.
 
 * [Understanding Segregated Witness](https://segwit.org/understanding-segregated-witness-905cc712c692)
   * Interestingly, while a signature on a physical check takes up maybe 10% of the check, a digital signature in bitcoin takes up more like 50% of the digital check.
