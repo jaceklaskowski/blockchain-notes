@@ -6,6 +6,8 @@ A *soft fork (SF)* is when a protocol changes make the new protocol compatible w
 
 A *hard fork (HF)* is when a protocol changes that leads to creating new software to handle it. The changes create new transactions on the new blockchain that are incompatible with the old ones and so they in turn create their own separate blockchain.
 
+## Bitcoin Gold (BTG) Hard Fork
+
 ## How to Access New Token After Hard Fork
 
 Quoting [Can you elaborate on how bitcoin holders will receive bitcoin gold after the October 25th hard fork?](https://www.quora.com/Can-you-elaborate-on-how-bitcoin-holders-will-receive-bitcoin-gold-after-the-October-25th-hard-fork).
