@@ -6,6 +6,8 @@ A **soft fork (SF)** is when a protocol changes make the new protocol compatible
 
 A **hard fork (HF)** is when a protocol changes that leads to creating a new software to handle it, but the changes create new transactions on the new blockchain ledger that are incompatible with the transactions on the blockchain before and so they in turn create their own separate blockchain.
 
+A hard-fork is a change to the protocol that makes upgraded nodes incompatible with nodes running the older version of the software, and vice versa.
+
 After a hard fork there are two separate blockchain networks (as if the blockchains started without a common ancestor or the only commonality between different blockchains are the transactions before the hard fork).
 
 As with any blockchain network the number of miners to "dig the tokens" makes a network sound, reliable and working. Every hard fork makes the size of a network smaller (at least at the very beginning). If widely supported, the new network will eventually grow bigger than its ancestors, but could also get abandoned and ultimately disappear.
