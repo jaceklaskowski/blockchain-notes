@@ -2,13 +2,18 @@
 
 **Bitcoin Cash (BCC)** protocol is a hard fork of the Bitcoin protocol with the following features:
 
-1. The **block size** has increased to **8 MB**
-    * block size limit has actually been made adjustable, with an increased default of 8 MB
+1. The **blocksize** limit has been made adjustable, with an increased default of **8MB**
     * the legacy Bitcoin code had a maximum limit of 1MB of data per block (or about 3 transactions per second) that caused issues with the old Bitcoin network's capacity as the time required to confirm transactions grew too much).
     * See Bitcoin Cash's [New Features](https://www.bitcoincash.org/#features) (with some changes)
+    * **Adjustable Blocksize Cap (ABC)** in [Bitcoin ABC](https://github.com/Bitcoin-ABC/bitcoin-abc#what-is-bitcoin-abc) fork
 1. A new **SigHash transaction signature hashing algorithm** indicated by the flag **SIGHASH_FORKID**
     * Provides replay protection not valid on the old Bitcoin Legacy network
 1. Removes [SegWit](./segwit.md), a code change that might activate on the bitcoin blockchain by the end of August.
+
+## Sources
+
+1. The website: https://www.bitcoincash.org
+1. [The bitcoin-ml Archives](https://lists.linuxfoundation.org/pipermail/bitcoin-ml)
 
 As a [fork](./soft-hard-forks.md)...Bitcoin Cash's transaction history would be the same as bitcoin's – at least up until the point of the split.
 

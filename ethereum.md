@@ -7,8 +7,6 @@
 * alternative asset protocol (to Bitcoin)
 * On Ethereum, you develop a so-called Dapp (decentralized app), which consists of two parts: a frontend (written in HTML as web app or any other client using a supported programming language), and a backend (think of it as the ‘database’ for your frontend). A frontend can be a full blockchain peer communicating directly with the backend. The huge benefit here is that every client is a full member of the trusted blockchain network. This is the ideal blockchain world.
 
-[Parity](https://github.com/paritytech/parity) is a fast, light, and robust Ethereum client
-
 1. Ethereum is...
     * http://eth.guide/
     * a single public blockchain, and a protocol for the creation of many blockchains
