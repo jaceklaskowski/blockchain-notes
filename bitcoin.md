@@ -1,6 +1,8 @@
 ## Bitcoin Blockchain
 
-1. Bitcoin is the first descentralized digital cryptocurrency. Bitcoin implements the Blockchain technology.
+1. The Bitcoin blockchain is a public [blockchain](./blockchain.md) with a highly distributed consensus protocol.
+1. Bitcoin is the first decentralized digital cryptocurrency
+1. [CoinDesk Bitcoin Price Index](https://www.coindesk.com/price/)
 
 From [Why I’m short Ethereum (and long Bitcoin)](https://medium.com/@tuurdemeester/why-im-short-ethereum-and-long-bitcoin-aee5b1c198fd):
 

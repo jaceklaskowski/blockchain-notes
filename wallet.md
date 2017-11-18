@@ -15,3 +15,4 @@ Wallets have unique address.
 
 **Hardware wallets**
 * [Trezor](https://trezor.io/)
+* [Ledger](https://www.ledgerwallet.com/)
