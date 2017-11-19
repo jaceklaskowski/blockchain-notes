@@ -41,7 +41,7 @@ Managing transactions and issuing money are carried out collectively by the netw
     * hard fork is a change of the Bitcoin protocol that is not backwards-compatible
     * a hard fork requires all the digital currency's miners to move to a new blockchain, or version of its transaction history.
 1. Whilst the blockchain is an immutable series of blocks, it's still possible for each peer to build up a different set of transaction histories. This divergence is known as **forking**, and is the cause of the consistency problem.
-1. the way the blockchain resolves this is with a consensus algorithm, where eventually there is a majority agreement on which forks should be dropped:
+1. the way the blockchain resolves this is with a [consensus algorithm](./consensus-algorithm.md), where eventually there is a majority agreement on which forks should be dropped:
 1. **Altcoin** (meaning "Bitcoin Alternatives") -- another alternative for financial transactions
     * Bitcoin copycats that use the Bitcoin codebase
 1. Blockchain enables the creation of a secure, trusted, peer-to-peer network between partners or public users to build any kind of distributed business application.
@@ -56,7 +56,7 @@ Managing transactions and issuing money are carried out collectively by the netw
     * A data structure called the blockchain which serves as the distributed back-end database
     * A cryptographic token, e.g. the Bitcoin (BTC) in the Bitcoin protocol or ether (ETH) for Ethereum
     * A peer-to-peer network for discovery and communications
-    * A consensus formation algorithm. Note that many enterprise blockchains will not use mining (like Bitcoin) for consensus
+    * A [consensus formation algorithm](./consensus-algorithm.md). Note that many enterprise blockchains will not use mining (like Bitcoin) for consensus
     * A virtual machine that enables programmable money in Bitcoin and decentralized applications in Ethereum
 1. Two popular open blockchain frameworks
     * Both frameworks have different ideas, analogous to the differences between IaaS and PaaS technologies
@@ -127,7 +127,7 @@ branding. Virtually anything of value can be tracked and traded on a blockchain 
 contributors to the network in its own cryptocurrency.
 
 1. Blockchains are therefore ledgers recording groups of transactions, otherwise known as blocks, which are linked together cryptographically in a linear temporal sequence. Other key properties associated with a blockchain - security, immutability, programmability -
-depend on the architecture of the blockchain and the character of the consensus protocol it runs by that blockchain. Some blockchains are structured to facilitate peer-to-peer transactions across non-hierarchical nodes; this is known as a "“"distributed" network structure. Some blockchains, like the Bitcoin blockchain, also ensure the immutability of their ledgers through their unique consensus protocol.
+depend on the architecture of the blockchain and the character of the [consensus protocol](./consensus-algorithm.md) it runs by that blockchain. Some blockchains are structured to facilitate peer-to-peer transactions across non-hierarchical nodes; this is known as a "“"distributed" network structure. Some blockchains, like the Bitcoin blockchain, also ensure the immutability of their ledgers through their unique consensus protocol.
 
 1. To identify who owns a specific asset, a party needs simply to consult the ledger to check who is its most recent owner.
 

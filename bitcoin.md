@@ -1,6 +1,6 @@
 ## Bitcoin Blockchain
 
-1. The Bitcoin blockchain is a public [blockchain](./blockchain.md) with a highly distributed consensus protocol.
+1. The Bitcoin blockchain is a public [blockchain](./blockchain.md) with a highly distributed [consensus protocol](./consensus-algorithm.md).
 1. Bitcoin is the first decentralized digital cryptocurrency
 1. [CoinDesk Bitcoin Price Index](https://www.coindesk.com/price/)
 

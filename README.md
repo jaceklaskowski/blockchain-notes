@@ -5,6 +5,7 @@ As my notes about Blockchain and different Blockchain implementations (e.g. Lite
 ## Contents
 
 * [Blockchain](./blockchain.md)
+* [Consensus Algorithm / Protocol](./consensus-algorithm.md)
 * [Cryptocurrency](./cryptocurrency.md)
   * [Litecoin Blockchain](./litecoin.md)
   * [Bitcoin Blockchain](./bitcoin.md)
